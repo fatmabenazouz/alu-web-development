@@ -1,4 +1,4 @@
-##HTML Webpage Project
+## HTML Webpage Project
 
 For this first project, I have focused on the HTML structure of a webpage from a designer file. No CSS, no style - just pure HTML semantic.
 
